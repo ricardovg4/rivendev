@@ -20,6 +20,21 @@ export default function Home() {
                     </p>
                     <p className="text-xs dark:text-gray-500">btw, I use Arch.</p>
                 </div>
+
+                <section className="text-base text-gray-300">
+                    <h2 className="text-2xl mt-14 text-white">About</h2>
+                    <p className="my-2">
+                        I build websites, like the one you're viewing, like the one that's
+                        on your head.
+                    </p>
+                    <p className="my-2">
+                        I do professionally crafted websites, from start to finish.
+                    </p>
+                    <p className="my-2">
+                        Do you need a stunning page? Or a professionally looking and
+                        performing web app? I got you covered.
+                    </p>
+                </section>
             </LayoutWrapper>
         </>
     );
