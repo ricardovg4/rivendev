@@ -13,7 +13,7 @@ export default function Home() {
       <LayoutWrapper>
         <div className="h-screen flex justify-center flex-wrap content-center">
           <div className="p-0">
-            <h1 className="text-6xl tracking-tighter font-bold ">WEB DESIGN.</h1>
+            <h1 className="text-6xl pr-2 font-bold">WEB DESIGN.</h1>
           </div>
         </div>
 
